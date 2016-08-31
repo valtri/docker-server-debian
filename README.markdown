@@ -1,6 +1,6 @@
 # Info
 
-Private server image for usage with [virtualization.git](http://scientific.zcu.cz/git/?p=virtualization.git;a=summary).
+Private server image for usage with [virtualization scripts](http://scientific.zcu.cz/git/?p=virtualization.git;a=summary).
 
 Base empty server ready to use:
 
