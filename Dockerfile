@@ -1,4 +1,4 @@
-FROM valtri/docker-puppet-debian:latest
+FROM valtri/docker-puppet-debian:8
 MAINTAINER František Dvořák <valtri@civ.zcu.cz>
 
 # ==== puppet ====
